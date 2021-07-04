@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @harsh-quantum
 - 👀 I’m interested in quantum computing and mathematics behind it
-- 🌱 I’m currently learning qiskit tool and conceot of machine learning 
+- 🌱 I’m currently learning qiskit tool and concept of machine learning 
 
 
 <!---
